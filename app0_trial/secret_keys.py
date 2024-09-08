@@ -1,0 +1,6 @@
+serp_api = "1f87d83b4f1f8967d939fcab57b933ade963a8e8b47f9bfd0aff2973a7ad75da"
+google_api = "AIzaSyAvgGLHar6X0bx3Jx7pLwn7CUTo_i5CgS0"
+custom_search_api = "AIzaSyAgWHn5j79dwoJrzucP1yr61nObCvZBPCA"
+search_engine_id = "154ed4bdae8904881"
+openai_api = "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"
+
