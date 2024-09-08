@@ -1,3 +1,3 @@
-google_api = "AIzaSyAvgGLHar6X0bx3Jx7pLwn7CUTo_i5CgS0"
-openai_api = "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"
+google_api = ""
+openai_api = ""
 
